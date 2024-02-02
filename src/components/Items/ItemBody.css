@@ -1,0 +1,9 @@
+.items {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+.parent-div hr {
+  margin: 14px;
+}

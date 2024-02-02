@@ -1,0 +1,10 @@
+.items-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.price-block {
+  display: flex;
+  justify-content: space-between;
+}
+
